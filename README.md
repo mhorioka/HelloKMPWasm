@@ -1,3 +1,3 @@
 Sample KMP Wasm App
 
-Visit <a href="/productionExecutable/">app</a>
+Visit <a href="/HelloKMPWasm/productionExecutable/">app</a>
